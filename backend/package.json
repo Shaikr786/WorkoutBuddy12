@@ -6,7 +6,11 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node server.js",
+<<<<<<< HEAD
     "dev": "node server.js"
+=======
+    "dev": "node server.js",
+>>>>>>> a8d9d8557a73950b8bc4687b198fef66a1520aaa
     "build": "npm i"
   },
   "keywords": [],
